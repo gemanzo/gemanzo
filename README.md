@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gennaro</h1>
-<h3 align="center">A passionate backend developer from Italy</h3>
+<h3 align="center">A passionate software developer from Italy</h3>
 
 - 🔭 I’m currently working for [Webmapp](https://github.com/webmappsrl) as Backend web developer.
 
-- 🌱 I’m currently learning **Docker, DevOps**
+- 🌱 I’m currently learning **Php and Laravel ecosystem**
 
 - 👯 I’m looking to collaborate on **every open source project related to the Laravel ecosystem**
 
