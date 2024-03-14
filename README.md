@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gennaro</h1>
 <h3 align="center">A passionate software developer from Italy</h3>
 
-- 🔭 I’m currently working for [Webmapp](https://github.com/webmappsrl) as Backend web developer.
+- 🔭 I’m currently working as a Freelance specialized in PHP and Laravel.
 
-- 🌱 I’m currently learning **Php and Laravel ecosystem**
+- 🌱 I’m currently learning **Angular and some cool frontend technologies**
 
-- 👯 I’m looking to collaborate on **every open source project related to the Laravel ecosystem**
-
-- 📫 How to reach me **gennaromanzo1993@gmail.com**
+- 📫 How to reach me **info@gmdigital.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
