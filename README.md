@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as a Freelance specialized in PHP and Laravel.
 
-- 🌱 I’m currently learning **Angular and some cool frontend technologies**
+- 🌱 I’m currently learning **Vue and some cool frontend technologies**
 
-- 📫 How to reach me **info@gmdigital.dev**
+- 📫 How to reach me **gennaromanzo1993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
